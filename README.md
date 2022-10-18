@@ -1,4 +1,4 @@
-# House Address Classifier
+# Stock NLP Sentiment Indicator
 
 ## Introduction
 <p style="text-align: justify">
